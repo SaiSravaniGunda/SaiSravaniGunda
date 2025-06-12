@@ -20,14 +20,6 @@ I'm a passionate Computer Science student specializing in **IoT & Full Stack Dev
 
 ---
 
-## 🛠 Projects
-
-- 🚗 [**ServiTrack**](https://github.com/SaiSravaniGunda/ServiTrack) – Vehicle service management system.  
-- 📦 [**Cargo Shipment Tracker**](https://github.com/SaiSravaniGunda/Cargo-Shipment-Tracker) – Real-time cargo tracking system using OpenRouteService.
-- 📊 [**Portfolio Tracker**](https://github.com/SaiSravaniGunda/Portfolio-Tracker) – Stocks & crypto investment tracker. *(Private)*
-- 👁 [**Smart Surveillance System**](https://github.com/SaiSravaniGunda/Smart-Surveillance-System) – Motion & face detection alerts with IoT.
-
----
 
 ## 📚 Education
 
