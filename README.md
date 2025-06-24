@@ -36,7 +36,10 @@ I'm a passionate Computer Science student specializing in **IoT & Full Stack Dev
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/saisravanigunda?theme=dark&font=Baloo%20Bhai%202&ext=heatmap)
+## 🧠 Competitive Programming
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/saisravanigunda?theme=dark&font=Baloo%20Bhai%202&ext=heatmap)](https://leetcode.com/u/saisravanigunda/)
+
 
 
 ---
