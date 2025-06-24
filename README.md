@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sai Sravani Gunda !
+# 👋 Hi there, I'm Sai Sravani Gunda!
 
 I'm a passionate Computer Science student specializing in **IoT & Full Stack Development**, with a deep interest in AI, system design, and cybersecurity. I build clean, scalable web apps and love turning ideas into code.
 
@@ -20,7 +20,6 @@ I'm a passionate Computer Science student specializing in **IoT & Full Stack Dev
 
 ---
 
-
 ## 📚 Education
 
 🎓 B.Tech CSE (IoT) — KITS Warangal (2022–2026)  
@@ -37,6 +36,12 @@ I'm a passionate Computer Science student specializing in **IoT & Full Stack Dev
 
 ---
 
+## 🧠 Competitive Programming
+
+- 🟠 [LeetCode](https://leetcode.com/u/saisravanigunda/)
+
+---
+
 ## 📬 Get in Touch
 
 - 📧 Email: saisravanigunda@gmail.com  
@@ -46,4 +51,3 @@ I'm a passionate Computer Science student specializing in **IoT & Full Stack Dev
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiSravaniGunda&show_icons=true&theme=tokyonight)
-
